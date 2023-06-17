@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>153294083623-f1hl7pb4s51f9j5qd9goq9pi2sk18s05.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.153294083623-f1hl7pb4s51f9j5qd9goq9pi2sk18s05</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDi_xHeg3AI9ibWX0TGdmVSXmH1R_m068k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>153294083623</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>paperfishh.Code-Exp-FoodSaver-SG-Firebase</string>
+	<key>PROJECT_ID</key>
+	<string>codeexp-proj</string>
+	<key>STORAGE_BUCKET</key>
+	<string>codeexp-proj.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:153294083623:ios:8bc717db3247e9012b2002</string>
+</dict>
+</plist>
